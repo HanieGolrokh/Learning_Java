@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86ae459e-5017-48ee-82a1-8049c54f7cd6" name="Changes" comment="">
+    <list default="true" id="63d84d52-42ea-459c-9a8b-3101281d992f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearningJava.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,46 +22,40 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
+  &quot;associatedIndex&quot;: 8
 }</component>
-  <component name="ProjectId" id="2XcxzxHVSL4v1oiVT25zge3KoV7" />
+  <component name="ProjectId" id="2Xd7gDcJfJ9pz6ce2s42FGM1gVV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/MySrc/Learning_Java/HelloWorld/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "D:/MySrc/Learning_Java/HelloWorld/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/MySrc/Learning_Java/LearningJava/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\MySrc\Learning_Java\HelloWorld\src" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\MySrc\Learning_Java" />
-    </key>
-  </component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="86ae459e-5017-48ee-82a1-8049c54f7cd6" name="Changes" comment="" />
-      <created>1698942437824</created>
+      <changelist id="63d84d52-42ea-459c-9a8b-3101281d992f" name="Changes" comment="" />
+      <created>1698947219793</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1698942437824</updated>
-      <workItem from="1698942439078" duration="3605000" />
-      <workItem from="1698946972424" duration="245000" />
+      <updated>1698947219793</updated>
+      <workItem from="1698947220802" duration="1019000" />
+      <workItem from="1699020789627" duration="267000" />
+      <workItem from="1699021069180" duration="53000" />
+      <workItem from="1699021150672" duration="43000" />
+      <workItem from="1699021208886" duration="644000" />
     </task>
     <servers />
   </component>
